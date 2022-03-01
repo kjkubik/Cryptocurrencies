@@ -30,9 +30,9 @@ you can answer the question by simply providing a table like this:
 
 However, some customers are visual learners. So, here is a 3D-Representation of the classifications we will suggest creating.
 ![](Images/moving3D.png)
-![](Images/red.png)
-![](Images/yellow.png)
-![](Images/purple.png)
+![](Images/Red.png)
+![](Images/Yellow.png)
+![](Images/Purple.png)
 ![](Images/orange.png)
 
 
